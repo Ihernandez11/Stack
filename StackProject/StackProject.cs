@@ -8,7 +8,7 @@ namespace StackProject
 {
     class StackProject : Stack<object>
     {
-        
+        //new changes
         
     }
 }
