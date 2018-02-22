@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace StackProject
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
-            var stack = new StackProject();
+            var stack = new Stack();
 
             stack.Push(1);
             stack.Push(2);
