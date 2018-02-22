@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace StackProject
 {
-    class StackProject : Stack<object>
+    class Stack
     {
         //new changes
+        //testing class name changing
+
         
     }
 }
